@@ -1,3 +1,4 @@
 Name : Burak
 Age : 43
 Fav color : blue
+Weight : 75
